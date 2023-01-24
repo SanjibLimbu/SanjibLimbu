@@ -1,6 +1,6 @@
 **Hi there👋 Sanjib Here!!!**
 
-  -  🔭 I’m currently working on Flutter and API.
+  -  🔭 I’m currently working on Flutter and Provider.
  
 ![](https://komarev.com/ghpvc/?username=SanjibLimbu)
 

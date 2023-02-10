@@ -1,6 +1,6 @@
 **Hi there👋 Sanjib Here!!!**
 
-  -  🔭 I’m currently working on an e-commerce app.
+  -  🔭 I’m currently working on a Note app.
  
 ![](https://komarev.com/ghpvc/?username=SanjibLimbu)
 

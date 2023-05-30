@@ -1,6 +1,6 @@
 **Hi there👋 Sanjib Here!!!**
 
-  -  🔭 I’m currently working on a Music Player app.
+<!--   -  🔭 I’m currently working on a Music Player app. -->
  
 ![](https://komarev.com/ghpvc/?username=SanjibLimbu)
 
